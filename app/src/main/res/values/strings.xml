@@ -2,4 +2,8 @@
     <string name="app_name">AndroidLabs_Summer</string>
     <string name="hello_message">Hello world!</string>
     <string name="ButtonText">I\'m a button</string>
+    <string name="LoginText">Login</string>
+    <string name="LoginFieldText">Email</string>
+    <string name="passwordText">Password</string>
+    <string name="passwordFieldText">Password</string>
 </resources>
