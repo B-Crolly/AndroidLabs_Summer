@@ -6,4 +6,11 @@
     <string name="LoginFieldText">Email</string>
     <string name="passwordText">Password</string>
     <string name="passwordFieldText">Password</string>
+    <string name="LoginButton">Login</string>
+    <string name="dialog_message">Do you want to finish this activity</string>
+    <string name="dialog_title">Finish Activity</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">ok</string>
+    <string name="buttonChat">Start Chat</string>
+    <string name="messageText">text</string>
 </resources>

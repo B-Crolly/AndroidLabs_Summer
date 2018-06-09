@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidLabs_Summer</string>
+    <string name="hello_message">G\'day world!</string>
+    <string name="ButtonText">Look at me button</string>
+    <string name="LoginText">Login</string>
+    <string name="LoginFieldText">Email</string>
+    <string name="passwordText">Password</string>
+    <string name="passwordFieldText">Password</string>
+    <string name="LoginButton">Login</string>
+    <string name="dialog_message">Waddya say we finish this one up eh</string>
+    <string name="dialog_title">Finish Er Up</string>
+    <string name="cancel">Crikey!</string>
+    <string name="ok">yup</string>
+</resources>

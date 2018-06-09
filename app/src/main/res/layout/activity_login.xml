@@ -37,4 +37,10 @@
         android:hint="@string/passwordFieldText"
         android:inputType="textPassword"
         android:text="password" />
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/LoginButton" />
 </LinearLayout>
